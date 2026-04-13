@@ -34,6 +34,4 @@ A cloud-connected, multiplayer territory capture game built with React Native an
 
 ## 📸 Screenshots
 
-*(To add a screenshot, save the image into your `assets/` folder as `map-screenshot.png` and it will appear here!)*
-
 ![mapss.jpg](./assets/mapss.jpg)
