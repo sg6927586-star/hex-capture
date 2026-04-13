@@ -23,9 +23,6 @@ A cloud-connected, multiplayer territory capture game built with React Native an
    npm install
    ```
 
-2. **Setup Supabase Database**
-   Copy the contents of `supabase_setup.sql` and run it in your Supabase project's SQL editor to generate the required tables and security policies.
-
 3. **Start the Expo Server**
    ```bash
    npx expo start
