@@ -239,8 +239,8 @@ export default function MapScreen() {
 
   const darkMap = [
     { elementType: 'geometry', stylers: [{ color: COLORS.surface }] },
-    { elementType: 'labels.text.fill', stylers: [{ color: '#746855' }] },
-    { elementType: 'labels.text.stroke', stylers: [{ color: COLORS.surfaceContainerLow }] },
+    { elementType: 'labels.text.fill', stylers: [{ color: COLORS.onSurfaceMuted }] },
+    { elementType: 'labels.text.stroke', stylers: [{ color: COLORS.surface }] },
     { featureType: 'road', elementType: 'geometry', stylers: [{ color: COLORS.surfaceContainerHigh }] },
     { featureType: 'road', elementType: 'geometry.stroke', stylers: [{ color: COLORS.surfaceContainerHighest }] },
     { featureType: 'water', elementType: 'geometry', stylers: [{ color: COLORS.surfaceContainerLow }] },

@@ -32,4 +32,8 @@ A cloud-connected, multiplayer territory capture game built with React Native an
    ```
    *Scan the QR code with the Expo Go app on iOS or Android to start playing.*
 
+## 📸 Screenshots
 
+*(To add a screenshot, save the image into your `assets/` folder as `map-screenshot.png` and it will appear here!)*
+
+![Map Screen](./assets/map-screenshot.png)
