@@ -32,5 +32,4 @@ A cloud-connected, multiplayer territory capture game built with React Native an
    ```
    *Scan the QR code with the Expo Go app on iOS or Android to start playing.*
 
-## 📸 Screenshots
-*(Add a few screenshots of your app running on Expo here!)*
+
